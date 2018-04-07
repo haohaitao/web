@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.nine{
+    float:left;
+    width:30%;
+    padding-top:30%;
+    margin:1%;
+    background: #FFC125;
+    border-radius: 15px;
+}
