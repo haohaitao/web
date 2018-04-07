@@ -1,0 +1,82 @@
+@charset "UTF-8";
+.one{
+    position: absolute;
+    left:2%;
+    width: 8%;
+    height: 15%;
+    max-width:8%;
+    max-height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+
+}
+.two{
+    position: absolute;
+    left: 12%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.three{
+    position: absolute;
+    left: 22%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.four{
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.five{
+    position: absolute;
+    top: 20%;
+    left: 12%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.six{
+    position: absolute;
+    top: 20%;
+    left: 22%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.seven{
+    position: absolute;
+    left: 2%;
+    top: 40%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.eight{
+    position: absolute;
+    top: 40%;
+    left: 12%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
+.nine{
+    position: absolute;
+    top: 40%;
+    left: 22%;
+    width: 8%;
+    height: 15%;
+    background: #FFC125;
+    border-radius: 15px;
+}
