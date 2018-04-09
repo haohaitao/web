@@ -2,4 +2,4 @@
 
 > web前端成长之路
 
- css(https://haohaitao.github.io/web/index.html)
+ css(https://haohaitao.github.io/web)
